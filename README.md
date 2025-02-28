@@ -24,10 +24,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## My languages:
-![Russian](https://img.shields.io/badge/Russian-%23FFFFFF.svg?style=for-the-badge&logo=flag-russia&logoColor=%23000000)
-![English](https://img.shields.io/badge/English-%23FFFFFF.svg?style=for-the-badge&logo=flag-uk&logoColor=%23000000)
-![French](https://img.shields.io/badge/French-%23FFFFFF.svg?style=for-the-badge&logo=flag-france&logoColor=%23000000)
-![Czech](https://img.shields.io/badge/Czech-%23FFFFFF.svg?style=for-the-badge&logo=flag-czech-republic&logoColor=%23000000)
+![Russian](https://img.shields.io/badge/Russian-%23C0C0C0.svg?style=for-the-badge&logo=flag-russia&logoColor=%23000000)
+![English](https://img.shields.io/badge/English-%23C0C0C0.svg?style=for-the-badge&logo=flag-uk&logoColor=%23000000)
+![French](https://img.shields.io/badge/French-%23C0C0C0.svg?style=for-the-badge&logo=flag-france&logoColor=%23000000)
+![Czech](https://img.shields.io/badge/Czech-%23C0C0C0.svg?style=for-the-badge&logo=flag-czech-republic&logoColor=%23000000)
 
 ## Hobbies:
 ![CTF](https://img.shields.io/badge/-CTF-003f5c?style=for-the-badge&logo=)
