@@ -28,6 +28,6 @@
 ![Hackathons](https://img.shields.io/badge/-Hackathons-003f5c?style=for-the-badge&logo=)
 
 ## Contacts:
-[<img src="https://img.shields.io/badge/Telegram-%230088CC.svg?style=for-the-badge&logo=telegram&logoColor=white&label=@whotyc_dev" alt="Telegram">](https://t.me/whotyc_dev)
+[<img src="https://img.shields.io/badge/Telegram-%230088CC.svg?style=for-the-badge&logo=telegram&logoColor=white&label=@who_dev" alt="Telegram">](https://t.me/whotyc_dev)
 [<img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=mail&logoColor=white&label=skzszkls@gmail.com" alt="Email">](mailto:skzszkls@gmail.com])
 
