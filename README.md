@@ -1,4 +1,4 @@
-# Junior Fullstack Developer | ML Engineer | Data Engineer
+# Fullstack Developer | ML Engineer | Data Engineer
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&center=true&width=435&lines=Backend;Frontend;Telegram+Bots;WebSites;Web+Apps" alt="Typing SVG" /></div>
 
 # My stack:
