@@ -29,5 +29,5 @@
 ![Hackathons](https://img.shields.io/badge/Hackathons-5865F2?style=for-the-badge&logo=hackaday&logoColor=white)
 
 ## Contacts:
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/who_dev)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wh0tyc)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skzszkls@gmail.com)
